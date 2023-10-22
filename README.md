@@ -1,2 +1,6 @@
 # ElectronicVoting_Paillier
  基于Paillier算法的电子投票
+
+ Paillier.go为Paillier算法的实现
+
+  Paillier_ElectronicVoting为基于Paillier算法的电子投票系统实现
